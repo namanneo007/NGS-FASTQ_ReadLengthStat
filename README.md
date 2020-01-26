@@ -13,7 +13,7 @@ THIS PROGRAM WILL GIVE 5 Read length statistics of provided .FASTQ file
 
 # EXAMPLE:
 
-$ sh new_readlenstat.sh SRR10909671.fastq
+$ sh readLenStat_FASTQ.sh SRR10909671.fastq
 
 
 ====>>>>|||	READ-LEN-STATS	:	SRR10909671.fastq	|||<<<<====
